@@ -3,7 +3,7 @@
 <head>
 <title>Welcome to DEVOPS Training</title>
 </head>
-<body bgcolor="#E7700A">
+<body bgcolor="#E7733A">
 
 <h1>Create a new person</h1>
 <mak:newForm type="general.Person" action="index.jsp">

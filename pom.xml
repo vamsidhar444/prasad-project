@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>batch45</finalName>
+    <finalName>batch46</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>

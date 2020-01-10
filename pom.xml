@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>devops48</finalName>
+    <finalName>batch49</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>

@@ -1,9 +1,9 @@
 <%@ taglib uri="http://www.makumba.org/presentation" prefix="mak" %>
 <html>
 <head>
-<title>Welcome to DEVOPS TELUGU Training</title>
+<title>Hello world!</title>
 </head>
-<body bgcolor="#E7799A">
+<body>
 
 <h1>Create a new person</h1>
 <mak:newForm type="general.Person" action="index.jsp">

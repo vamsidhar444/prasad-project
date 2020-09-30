@@ -1,1 +1,1 @@
-build 'Test1'
+build 'Test-1'
